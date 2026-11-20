@@ -17,9 +17,3 @@ Full-stack personal expense tracking application built with **Spring Boot 3 (Jav
 - Search and multi-criteria filtering (category, payment method, date range)
 - Automated JUnit 5 + MockMvc integration test suite
 
-## Local Setup & Running with Docker
-
-1. **Clone the repository:**
-   ```bash
-   git clone <YOUR_REPOSITORY_URL>
-   cd ExpenseWise
